@@ -1,2 +1,1 @@
-# idea-area
-создание диаграмм
+QuantumLeapFrontend
